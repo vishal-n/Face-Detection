@@ -1,7 +1,7 @@
 # Face-Detection
 A face detection model using OPENCV and deep learning
 
-To install the required libraries
+To install the required libraries<br/>
 pip3 install cv2
 pip3 install numpy
 pip3 install argparse
