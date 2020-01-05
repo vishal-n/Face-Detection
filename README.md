@@ -1,5 +1,5 @@
 # Face-Detection
-A face detection model using OPENCV and deep learning
+A face detection model using opencv and deep learning
 
 To install the required libraries-<br/>
 pip3 install cv2<br/>
