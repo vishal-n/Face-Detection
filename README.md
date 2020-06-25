@@ -2,7 +2,7 @@
 A face detection model using opencv and deep learning
 
 Install the following libraries for python3-<br/>
-OpenCv<br/>
+OpenCV<br/>
 Numpy<br/>
 Argparse<br/>
 
